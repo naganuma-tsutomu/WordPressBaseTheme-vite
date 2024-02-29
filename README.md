@@ -1,0 +1,1 @@
+# WordPressBaseTheme-vite
