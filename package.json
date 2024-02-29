@@ -1,0 +1,22 @@
+{
+  "name": "wordpressbasetheme-vite",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "watch": "vite build --watch",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.1.4",
+    "vite-plugin-live-reload": "^3.0.3"
+  },
+  "devDependencies": {
+    "vite-plugin-static-copy": "^1.0.1"
+  }
+}
